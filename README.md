@@ -8,13 +8,16 @@ link domain hosting https://sipusone.000webhostapp.com/
 
 ### Cetak Kartu Anggota
 
-### Login & Logout Validation
+### Session - Login & Logout Validation
 
-## tools
-used PHP Procedural versi 8
-xampp
-hashing
+# tools
+- used PHP Procedural versi 8
+- xampp
+- hashing
 
-## akun
-user : admin
+------------------
+________________
+
+# akun
+user : admin, 
 pass : 234
