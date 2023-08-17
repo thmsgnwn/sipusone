@@ -1,0 +1,55 @@
+body {
+  background-color: #eee;
+}
+
+.jumbotron {
+  background-color: lightgoldenrodyellow;
+  padding: 30px;
+}
+.navbar {
+  background-color: rgb(138, 43, 226);
+  position: sticky;
+  top: 0;
+}
+.search {
+  background-color: beige;
+  color: black;
+}
+.list-group-item {
+  padding: 5px;
+  color: blueviolet;
+}
+.layout {
+  margin-left: 0rem;
+  padding-top: 2rem;
+  padding-left: 20px;
+}
+h2 {
+  color: blueviolet;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+hr {
+  color: blueviolet;
+  margin: 0%;
+  padding: 0%;
+}
+footer {
+  background-color: blueviolet;
+  color: #ffffff;
+  margin-top: 20px;
+  padding: auto;
+}
+label {
+  text-align: right;
+  padding-top: 10px;
+}
+.judulkontak {
+  margin-bottom: -5px;
+}
+.btnlist {
+  display: block;
+  border-bottom: 3px solid #0b63dc;
+
+  margin: auto;
+}
